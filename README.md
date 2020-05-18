@@ -1,5 +1,5 @@
 # NoteKeeper
- A MEVN (MongoDB, ExpressJs, VueJs, NodeJs) app for keeping, editing, and deleting notes - My first VueJs application!
+ A MEVN Stack (MongoDB, ExpressJs, VueJs, NodeJs) application for keeping, editing, and deleting notes - My first VueJs application!
 
 # Setup
 
