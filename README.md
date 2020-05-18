@@ -1,2 +1,2 @@
 # NoteKeeper
-A MEVN stack application for keeping, editing, and deleting notes!
+ A MEVN (MongoDB, ExpressJs, VueJs, NodeJs) app for keeping, editing, and deleting notes.
